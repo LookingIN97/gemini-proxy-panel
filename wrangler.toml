@@ -1,4 +1,5 @@
 # wrangler.toml
+keep_vars = true
 name = "gemini-proxy-panel"
 main = "src/index.ts"
 compatibility_date = "2025-03-27"
